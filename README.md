@@ -6,4 +6,4 @@
 **Mini Lesson**<br>
 <a href="https://github.com/ShannonGA/GitHubMiniLesson">Mini Lesson</a>
 **Mini Lesson 9.4**<br>
-<a href="https://github.com/ShannonGA/Mini-Lesson-9.4.git">Mini Lesson</a>
+<a href="https://github.com/ShannonGA/Mini-Lesson-9.4.git">Mini Lesson 9.4</a>
